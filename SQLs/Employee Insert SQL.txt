@@ -1,0 +1,6 @@
+Insert into employee values(101,'Manju',60000,'INDIA');
+Insert into employee values(102,'Anand',80000,'INDIA');
+Insert into employee values(103,'Srinivas',85000,'INDIA');
+Insert into employee values(104,'Pavan',100000,'US');
+Insert into employee values(105,'Sandeep',160000,'US');
+Insert into employee values(106,'Andrew',200000,'US');

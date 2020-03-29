@@ -1,0 +1,6 @@
+CREATE TABLE daily_data (
+	hashcode INT(11) NULL DEFAULT NULL,
+	json_data VARCHAR(100) NULL DEFAULT NULL
+)
+
+;
